@@ -41,5 +41,5 @@ if st.button('Submit'):
 
 st.divider()
 
-st.write("Autor: Alberto Moreno González - ")
-st.write("Máster FP en Inteligencia Artificial y Big Data del Centro Integrado en CPIFP Alan Turing (Málaga)")
+st.write("Author: Alberto Moreno González - ")
+st.write("AI and Big Data FP Master at CPIFP Alan Turing (Málaga)")
